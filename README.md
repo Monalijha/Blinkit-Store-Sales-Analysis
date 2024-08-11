@@ -12,12 +12,12 @@ Steps Include:
  Insigts we get:
 1) Overall sales revenue: $1.20 million,
    Average sales per transaction: $141.
-   
-2)Outlet Performance:
+
+2) Outlet Performance:
    Medium-sized outlets generate the highest sales at $507.90K,
    Tier 3 locations contribute the most to sales, with $472.13K.
    
-3)Sales peaked in 2018 at $205K, showing significant growth during that period.
+3) Sales peaked in 2018 at $205K, showing significant growth during that period.
 
 4) Regular fat content items are more popular, with $776.32K in sales compared to $425.36K for low-fat items.
    
